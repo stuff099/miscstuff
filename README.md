@@ -43,3 +43,9 @@ https://www.threadgroup.org/What-is-Thread/Overview
 
 ## How to Make an Algo Trading Crypto Bot with Python (Part 1)
 https://www.learndatasci.com/tutorials/algo-trading-crypto-bot-python-strategy-backtesting/
+
+## The Attackers Guide to Azure AD Conditional Access
+https://danielchronlund.com/2022/01/07/the-attackers-guide-to-azure-ad-conditional-access/
+
+## learntocloud.cloud
+https://learntocloud.guide/#/
