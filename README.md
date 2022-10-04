@@ -49,3 +49,12 @@ https://danielchronlund.com/2022/01/07/the-attackers-guide-to-azure-ad-condition
 
 ## learntocloud.cloud
 https://learntocloud.guide/#/
+
+## Security & Privacy Evaluations - Linux
+https://madaidans-insecurities.github.io/linux.html
+
+## Introduction to Modern Statistics
+https://openintro-ims.netlify.app
+
+## 802.11 Wireshark filters chart
+https://wlanprofessionals.com/802-11-wireshark-filters-chart/
