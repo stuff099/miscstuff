@@ -1,4 +1,4 @@
-# miscstuff
+# Stuff found from intenets...
 Links, ebooks, samples etc.
 
 
