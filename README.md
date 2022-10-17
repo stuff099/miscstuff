@@ -58,3 +58,7 @@ https://openintro-ims.netlify.app
 
 ## 802.11 Wireshark filters chart
 https://wlanprofessionals.com/802-11-wireshark-filters-chart/
+
+## Diagrid conductor
+Let Conductor manage Dapr on your Kubernetes cluster so you can focus on writing code.
+https://www.diagrid.io/conductor
