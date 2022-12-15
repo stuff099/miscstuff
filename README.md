@@ -65,3 +65,6 @@ https://www.diagrid.io/conductor
 
 ## ip command cheat sheet
 [ip command](pdf/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
+
+## Web pentest
+https://cheatsheet.haax.fr/web-pentest/
