@@ -68,3 +68,6 @@ https://www.diagrid.io/conductor
 
 ## Web pentest
 https://cheatsheet.haax.fr/web-pentest/
+
+## BUG BOUNTY TIPS (Offensice Security Cheatsheet)
+https://cheatsheet.haax.fr/web-pentest/bug_bounty_tips/
