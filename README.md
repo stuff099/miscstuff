@@ -71,3 +71,6 @@ https://cheatsheet.haax.fr/web-pentest/
 
 ## BUG BOUNTY TIPS (Offensice Security Cheatsheet)
 https://cheatsheet.haax.fr/web-pentest/bug_bounty_tips/
+
+## RedTeam-tools
+https://github.com/A-poc/RedTeam-Tools
